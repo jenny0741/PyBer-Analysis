@@ -17,6 +17,6 @@ Based on the data from the box plots and table summary below, there is an obviou
 ## Summary
 Due to the low numbers of drivers and riders in rural areas, the price of fares seems to increase by approximately 1.5x the fare prices of urban areas. The accessibility and affordability of ride-share services seem to be offered to more urban areas due to the dense populations, however, the same cannot be the said about other areas with sparser populations.
 ### Recommendations: 
-1.	Provide more incentives for drivers to be employed in/relocate to rural areas
-2.	Allocate more resources to provide affordability in rural areas
-3.
+1.Provide incentives for drivers to be employed in/relocate to rural areas to increase accessibility
+2.Allocate more resources to provide/promote affordability in rural areas
+3.Research trends to understand the certain spikes/drops in total fares in each city throughout the year and consider increasing/decreasing driver numbers during those periods 
