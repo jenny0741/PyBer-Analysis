@@ -8,10 +8,9 @@ An exploratory analysis on PyBer data was conducted to present the the relations
 Based on the data from the box plots in the figures below, there is an obvious disparity between the number of rides, number of drivers, and fare prices per city.
 
 ![Analysis/Fig2](Analysis/Fig2.png)
-![Fig3](Fig3.png)
-![Fig4](Fig4.png)
+![Analysis/Fig3](Analysis/Fig3.png)
+![Analysis/Fig4](Analysis/Fig4.png)
 
-![PyBer_fare_summary](PyBer_fare_summary.png)
 
 
 
