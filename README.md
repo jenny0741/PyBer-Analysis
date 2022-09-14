@@ -5,7 +5,7 @@ An exploratory analysis on PyBer data was conducted to present the the relations
 
 ## Results
 
-Based on the data from the box plots in the figures below, there is an obvious disparity between the number of rides, number of drivers, and fare prices per city.
+Based on the data from the box plots and table summary below, there is an obvious disparity between the number of rides, number of drivers, and fare prices per city. Comparing the median for number of rides and the number of drivers between the three city types, the urban areas have the highest number of rides and drivers while the rural areas have the smallest numbers. However, when comparing those same numbers with fare prices for corresponding city types, rural areas had the highest fare prices while urban areas had the lowest. 
 
 ![Analysis/Fig2](Analysis/Fig2.png)
 ![Analysis/Fig3](Analysis/Fig3.png)
