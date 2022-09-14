@@ -10,7 +10,7 @@ Based on the data from the box plots in the figures below, there is an obvious d
 ![Analysis/Fig2](Analysis/Fig2.png)
 ![Analysis/Fig3](Analysis/Fig3.png)
 ![Analysis/Fig4](Analysis/Fig4.png)
-
+![Analysis/pyber_summary_df](Analysis/pyber_summary_df.png)
 
 
 
