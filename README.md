@@ -11,4 +11,7 @@ Based on the data from the box plots in the figures below, there is an obvious d
 ![Fig3](Fig3.png)
 ![Fig4](Fig4.png)
 
+![PyBer_fare_summary](PyBer_fare_summary.png)
+
+
 ## Summary
